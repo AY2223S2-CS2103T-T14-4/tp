@@ -1,7 +1,7 @@
-package seedu.remark.model.person;
+package seedu.address.model.person;
+
 
 import static java.util.Objects.requireNonNull;
-import static seedu.remark.commons.util.AppUtil.checkArgument;
 
 /**
  * Represents a Person's remark in the address book.
